@@ -19,6 +19,7 @@
   "homepage": "https://github.com/ehsiaoz/Group_Project2#readme",
   "dependencies": {
     "body-parser": "^1.16.0",
+    "debug": "^2.6.1",
     "express": "^4.14.1",
     "express-handlebars": "^3.0.0",
     "geocoder": "^0.2.2",
