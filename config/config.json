@@ -8,15 +8,15 @@
   },
   "test": {
     "username": "ivdhcpkjgt0shcw4",
-    "password": "tqx4wpx8i7jf5uno",
-    "database": "database_test",
+    "password": "xnx1dqqhsivqi2o1",
+    "database": "rvrkv5a0q5xx8dk1",
     "host": "l7cup2om0gngra77.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   },
   "production": {
     "username": "ivdhcpkjgt0shcw4",
-    "password": "tqx4wpx8i7jf5uno",
-    "database": "database_production",
+    "password": "xnx1dqqhsivqi2o1",
+    "database": "rvrkv5a0q5xx8dk1",
     "host": "l7cup2om0gngra77.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   }
